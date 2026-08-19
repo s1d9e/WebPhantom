@@ -1,0 +1,1 @@
+"""WebPhantom core module."""
